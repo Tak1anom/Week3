@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tak's top 5 most used Items of 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        h2 {
+            color: #333;
+            text-align: center;
+            margin-top: 50px;
+            margin-bottom: 30px;
+        }
+        p {
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+        h3 {
+            color: #666;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        strong {
+            color: #001f3f; /* dark blue */
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<h2>The Top 5</h2>
+<p>This website will keep track of my most used items currently this year to see if anything changes.</p>
+
+<h3><strong>Number 1: Bluetooth headphones</strong></h3>
+<p>Most used Bluetooth headphones listen to my vibing white girl music. You can buy it from <a href="https://www.amazon.com.au/Bluetooth-Headphones-Wireless-Playtime-Memory-Protein/dp/B08RHMD51S">Amazon</a>.</p>
+<ul>
+    <li>Bluetooth headphones</li>
+    <li>Energy drinks</li>
+    <li>Gym equipment</li>
+    <li>My new Watch</li>
+    <li>Soccer ball</li>
+</ul>
+
+<h3><strong>Number 2: Energy drinks</strong></h3>
+<p>To get through my horrible 2nd job and math classes I drink way too many energy drinks. Check out <a href="https://www.monsterenergy.com/en-au/">Monster Energy</a>.</p>
+
+
+<h3><strong>Number 3: Gym equipment</strong></h3>
+<p>To prevent shooting myself I do a lot of gym workouts building one at home currently here's the link to it: <a href="https://gymdirect.com.au/">Gym Direct</a>.</p>
+
+
+<h3><strong>Number 4: My new Watch</strong></h3>
+<p>Was kinda bored so I bought a cool watch to make myself feel better. You can find it at <a href="https://au.firstclasswatches.com/scuderia-ferrari-mens-pilota-evo-stainless-steel-bracelet-black-dial-0830720-p-58690/">First Class Watches</a>.</p>
+
+<h3><strong>Number 5: Soccer ball</strong></h3>
+<p>I play soccer and here's a random cool link to the physics of a soccer ball: <a href="https://www.nationalgeographic.com/culture/article/140529-world-cup-soccer-brazuca-physics-jabulani-sports">National Geographic</a>.</p>
+
+</body>
+</html>
